@@ -1,0 +1,4 @@
+olamide kola,tp17/18/h/2049,csc690 90 3,csc670 78 4,csc678 89 3,csc650 98 5,0
+olakunle tola,tp17/18/h/2019,csc690 80 3,csc670 88 4,csc688 89 4,csc650 95 5,csc690 78 4,0
+bolanle kolade,tp16/17/h/0419,csc680 96 4,csc670 90 4,csc688 89 4,csc650 98 5,0
+olamide fehintola,tp17/18/h/2149,csc690 80 3,csc670 78 4,csc678 89 3,0
